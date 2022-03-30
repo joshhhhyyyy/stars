@@ -1,0 +1,36 @@
+name: 😮‍💨
+
+on:
+  workflow_dispatch:
+
+jobs:
+  yess:
+    name: yess
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.PAT }}
+          fetch-depth: 0
+      - name: huh
+        run: |
+          rm README.md
+          pip install starred
+          starred --username joshhhhyyyy --sort > README.md
+      - name: Import GPG key
+        uses: crazy-max/ghaction-import-gpg@v4
+        with:
+          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
+          passphrase: ${{ secrets.PASSPHRASE }}
+          git_user_signingkey: true
+          git_commit_gpgsign: true
+          git_tag_gpgsign: true
+          git_push_gpgsign: false
+      - name: set up git
+        run: |
+          git config --global gpg.program gpg2
+      - name: commit
+        run: |
+          git add .
+          git commit -m "👻"
+          git push origin main

@@ -25,6 +25,7 @@
 
 ## C 
 
+- [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 - [NSSpiral/Blackb0x](https://github.com/NSSpiral/Blackb0x) - Apple TV 2/3 Jailbreak
 - [owntone/owntone-server](https://github.com/owntone/owntone-server) - OwnTone is forked-daapd's new name. Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.

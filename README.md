@@ -18,6 +18,7 @@
   - [Python](#python)
   - [Roff](#roff)
   - [Ruby](#ruby)
+  - [Rust](#rust)
   - [Shell](#shell)
   - [Swift](#swift)
   - [TypeScript](#typescript)
@@ -50,7 +51,7 @@
 - [pldubouilh/gossa](https://github.com/pldubouilh/gossa) - 🎶 a fast and simple multimedia fileserver
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [winfsp/hubfs](https://github.com/winfsp/hubfs) - File system for GitHub
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator 🗝️
 - [KiritoNya/animeworld](https://github.com/KiritoNya/animeworld) - A simple (incomplete) animeworld API which has some methods for obtaining information from the Italian anime site [https://www.animeworld.tv/]
 - [logrusorgru/aurora](https://github.com/logrusorgru/aurora) - Golang ultimate ANSI-colors that supports Printf/Sprintf methods
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -87,6 +88,7 @@
 
 ## Others 
 
+- [charmbracelet/runway](https://github.com/charmbracelet/runway) - Models 📸
 - [teenyicons/teenyicons](https://github.com/teenyicons/teenyicons) - Tiny minimal 1px icons designed to fit in the smallest places.
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 
@@ -109,6 +111,10 @@
 
 - [amclain/halation](https://github.com/amclain/halation) - Add Exif metadata to film photographs.
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺
+
+## Rust 
+
+- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 
 ## Shell 
 
@@ -134,7 +140,7 @@
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 - [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
-- [nhost/nhost](https://github.com/nhost/nhost) - Nhost is a serverless backend for web and mobile apps.
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open-Source GraphQL Backend (Firebase Alternative).
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.

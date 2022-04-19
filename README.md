@@ -126,6 +126,7 @@
 
 ## Swift 
 
+- [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
 - [itsmeichigo/peachy](https://github.com/itsmeichigo/peachy) - 🍑 Convenient tool for kaomoji input
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [swiftinsg/2021-ArrivalSG](https://github.com/swiftinsg/2021-ArrivalSG) - ArrivalSG provides both bus arrival timings and it includes information on train disruptions in real time. It also allows users to view the first and last bus timings. It is the perfect travel companion when you are using public transportation.

@@ -19,6 +19,8 @@ jobs:
           rm README.md
           pip install starred
           starred --username joshhhhyyyy --sort > README.md
+          b=$(git status --porcelain)
+          if b=0; then exit; fi
       - name: Import GPG key
         uses: crazy-max/ghaction-import-gpg@v4
         with:

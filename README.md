@@ -20,6 +20,7 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Shell](#shell)
+  - [Svelte](#svelte)
   - [Swift](#swift)
   - [TypeScript](#typescript)
   - [V](#v)
@@ -124,6 +125,10 @@
 - [chrishunt/negfix8](https://github.com/chrishunt/negfix8) - Automate the process of scanning negative film
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
+
+## Svelte 
+
+- [proofrock/pupcloud](https://github.com/proofrock/pupcloud) - A portable web file manager and gallery
 
 ## Swift 
 

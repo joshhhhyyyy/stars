@@ -77,6 +77,7 @@
 
 ## JavaScript 
 
+- [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022) - Join the GitHub Graduation Yearbook and "walk the stage" on June 11.
 - [BotsAppOfficial/BotsApp](https://github.com/BotsAppOfficial/BotsApp) - Your personal assistant, on WhatsApp! The most user friendly userbot for the platform!
 - [soheilpro/mailwind](https://github.com/soheilpro/mailwind) - Use Tailwind CSS to design HTML emails.
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
@@ -84,6 +85,7 @@
 
 ## Lua 
 
+- [mrtajniak/NegativeLabPro-lrplugin-hotfix](https://github.com/mrtajniak/NegativeLabPro-lrplugin-hotfix) - Hotfix for licensing in Negative Lab Pro for Lightroom plugin
 - [maoiscat/mpv-osc-morden](https://github.com/maoiscat/mpv-osc-morden) - Another mpv osc script
 
 ## Makefile 
